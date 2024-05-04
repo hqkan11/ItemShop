@@ -1,12 +1,12 @@
-CID_703_Athena_Commando_M_Cyclone, 0
-CID_761_Athena_Commando_M_CycloneSpace, 0
-Pickaxe_ID_359_CycloneMale, 0
-na
-na
-na
-CID_620_Athena_Commando_L_BigChuggus, 0
-Pickaxe_ID_179_StarWand, 800
+CID_653_Athena_Commando_F_UglySweaterFrozen, 1500
+CID_656_Athena_Commando_M_TeriyakiFishFreezerBurn, 1500
+CID_644_Athena_Commando_M_Cattus, 1500
+Pickaxe_ID_015_HolidayCandyCane, 800
+Wrap_186_SnowGlobe, 400
+Glider_ID_114_IceQueen, 800
+EID_SandwichBop, 500
+Pickaxe_ID_363_LollipopTricksterFemale, 800
 Wrap_128_FragmentedGlowEclipse, 400
-CID_715_Athena_Commando_F_TwinDark, 1200
-Pickaxe_ID_142_TeriyakiFish, 500
-EID_Griddle_Beyond, 0
+CID_515_Athena_Commando_M_BarbequeLarry, 1500
+EID_JanuaryBop, 500
+, 0
